@@ -2,6 +2,9 @@
 
 Voting Decentralized App with Stellar Soroban smart contract that integrates the freighter wallet that helps people to vote in proposals.
 
+![image](https://github.com/SrushtiKakade28/sorobonproject/assets/85052036/dc96445b-3136-454e-aab4-fed8677f0bf2)
+
+
 # Project Description
 
 Our project aims to develop a decentralized voting application built on the Stellar Soroban platform. Leveraging the power of blockchain technology, the application ensures transparency, security, and accessibility in the voting process. By utilizing Stellar Soroban, we harness its efficient consensus mechanism and smart contract capabilities to create a robust voting system.
